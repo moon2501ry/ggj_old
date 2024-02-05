@@ -1,6 +1,13 @@
 #region Gravity
 spdv += grv;
 spdv = clamp(spdv,-spdv_max,spdv_max);
+if stamina <= 0
+{
+	if grv != 0.2
+	{
+		grv = 0.2;
+	};
+};
 
 if(place_meeting(x,y+spdv,obj_wall))
 {
