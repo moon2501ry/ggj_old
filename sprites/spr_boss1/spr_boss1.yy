@@ -4,7 +4,7 @@
   "name": "spr_boss1",
   "bbox_bottom": 103,
   "bbox_left": 0,
-  "bbox_right": 83,
+  "bbox_right": 91,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fc650286-3f27-42aa-9ff6-51b6e8bb7745",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d7f87ef3-bad4-4dcc-8cf1-067a5dd21164",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 104,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fa6c96eb-afd9-4751-8222-00487a172feb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c954bcc5-f96b-4c7c-ab04-de40e506d45d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 7,
@@ -54,12 +54,12 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fc650286-3f27-42aa-9ff6-51b6e8bb7745","path":"sprites/spr_boss1/spr_boss1.yy",},},},"Disabled":false,"id":"df48a43c-5d9f-4ee6-86bc-550c3939005d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d7f87ef3-bad4-4dcc-8cf1-067a5dd21164","path":"sprites/spr_boss1/spr_boss1.yy",},},},"Disabled":false,"id":"91b5a325-7185-424c-a811-75469d953caa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 42,
+    "xorigin": 46,
     "yorigin": 104,
   },
   "swatchColours": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 84,
+  "width": 92,
 }
