@@ -24,7 +24,7 @@ draw_text(gui_w/2,30,global.points[2]);
 //Boss1
 if room = Boss1
 {
-	draw_text(gui_w/1.5,15,obj_boss.boss_health);
+	draw_text(gui_w/1.5,15,obj_boss1.boss_health);
 };
 draw_set_font(-1);
 draw_set_halign(-1);
