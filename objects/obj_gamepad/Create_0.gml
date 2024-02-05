@@ -1,0 +1,1 @@
+global.gamepad = -1;

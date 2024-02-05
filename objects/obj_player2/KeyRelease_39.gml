@@ -1,0 +1,1 @@
+collision_wall = 25;
