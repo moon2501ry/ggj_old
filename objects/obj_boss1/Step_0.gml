@@ -1,9 +1,9 @@
 if boss_health <= 0
 {
-	global.coins += global.points[1]*2;
+	global.coins += global.points[1];
 	if global.points[1] > global.points[2]
 	{
-		global.points[2] = global.points[1]*2;
+		global.points[2] = global.points[1];
 	};
 	var _current_challenge = gxc_get_query_param("challenge");
 	if (_current_challenge == global.highscore_challenge) or (_current_challenge == global.natal_challenge)
