@@ -1,3 +1,5 @@
+if obj_controlador.mode_debug = "Desable"
+{
 if collision_wall = true
 {
 	if global.arma = 4
@@ -21,4 +23,5 @@ if collision_wall = 25
 		spdv = -1.5;
 	};
 	collision_wall = false;
+};
 };

@@ -1,4 +1,6 @@
 #region Gravity
+if obj_controlador.mode_debug = "Desable"
+{
 spdv += grv;
 spdv = clamp(spdv,-spdv_max,spdv_max);
 if stamina <= 0
@@ -20,6 +22,7 @@ if(place_meeting(x,y+spdv,obj_wall))
 };
 
 y += spdv;
+};
 #endregion
 #region GamePad
 //Jump

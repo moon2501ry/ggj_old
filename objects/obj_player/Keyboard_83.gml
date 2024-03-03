@@ -1,3 +1,5 @@
+if obj_controlador.mode_debug = "Desable"
+{
 if collision_wall = false
 {
 	spdv = 12;
@@ -12,4 +14,9 @@ if collision_wall = true
 	{
 		sprite_index = galinhosprite_agachado;
 	};
+};
+};
+if obj_controlador.mode_debug = "Enable"
+{
+	y+=1;
 };

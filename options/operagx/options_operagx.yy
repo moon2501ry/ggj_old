@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "",
   "option_operagx_mod_team_name": "",
   "option_operagx_mod_version": "1.0.0.0",
-  "option_operagx_next_version": "1.0.0.22",
+  "option_operagx_next_version": "1.0.0.23",
   "option_operagx_publicShareUrl": "https://gx.games/games/l7c9ck/galinho-s-game-jump-/",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "f069d5d1-5be9-44ae-a691-3b81aefd9d12",
   "option_operagx_team_name": "Nya's Studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "1.0.0.21",
+  "option_operagx_version": "1.0.0.22",
 }
